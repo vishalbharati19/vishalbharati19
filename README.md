@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal Bharati (@vishalbharati19).
 - 👀 I’m interested in coding and learning new things about tech and electronics.
-- 🌱 I’m currently in second year of Electronics and telecommunication engineering at Department of Technology, Shivaji University, Kolhapur.
+- 🌱 I’m currently in third year of Electronics and telecommunication engineering at Department of Technology, Shivaji University, Kolhapur.
 - 📫 How to reach me ?? -> vabharti11@gmail.com
 
 <!---
